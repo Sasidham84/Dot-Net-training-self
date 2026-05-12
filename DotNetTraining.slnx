@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/01_CSharpBasics/">
+    <Project Path="src/01_CSharpBasics/CSharpBasics.csproj" />
+  </Folder>
+  <Folder Name="/src/02_OOPConcepts/">
+    <Project Path="src/02_OOPConcepts/OOPConcepts.csproj" />
+  </Folder>
+  <Folder Name="/src/03_Collections/">
+    <Project Path="src/03_Collections/Collections.csproj" />
+  </Folder>
+  <Folder Name="/src/04_ExceptionHandling/">
+    <Project Path="src/04_ExceptionHandling/ExceptionHandling.csproj" />
+  </Folder>
+  <Folder Name="/src/05_AsyncAwait/">
+    <Project Path="src/05_AsyncAwait/AsyncAwait.csproj" />
+  </Folder>
+</Solution>
