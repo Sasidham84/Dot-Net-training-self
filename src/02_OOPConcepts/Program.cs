@@ -158,7 +158,7 @@ class Triangle : Shape
     private readonly double _base, _height;
     public Triangle(double @base, double height) { _base = @base; _height = height; }
     public override double Area() => 0.5 * _base * _height;
-    public override string Describe() => $"A triangle with base {@_base} and height {_height}";
+    public override string Describe() => $"A triangle with base {_base} and height {_height}";
 }
 
 // Interface
